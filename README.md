@@ -1,4 +1,4 @@
-# Medical-Appointments-Data-Analysis
+# Exploration and Analysis of Medical Appointment Data
 
 This is the 1st project in the **Udacity/ALX Data Analyst** Nanodegree Program.
 
