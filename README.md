@@ -1,7 +1,5 @@
 # Exploration and Analysis of Medical Appointment Data
 
-This is the 1st project in the **Udacity/ALX Data Analyst** Nanodegree Program.
-
 ## Dataset
 
 This dataset collects information from more than 100k medical appointments in Brazil and is focused on wether or not patients show up for their medical appointments. 
