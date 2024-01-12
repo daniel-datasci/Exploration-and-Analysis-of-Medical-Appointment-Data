@@ -39,4 +39,4 @@ I also used color palletes to seperate the indepent and dependent variables. Thi
 
 ## Blog Post
 
-[On Medium](https://medium.com/@chisompromise/medical-appointments-data-analysis-3c9dad154250)
+[On Medium](https://medium.com/@danifedibah/exploration-and-analysis-of-medical-appointment-data-33f15897c1f7)
